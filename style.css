@@ -1,0 +1,78 @@
+*{
+    margin:0;
+}
+.joyeux {
+ background-image: url("https://larecette.net/wp-content/uploads/2022/12/recette-cocktail-maison-Noel-fete-fin-annee-berry-1152x769.jpeg");
+ background-size: cover;
+}
+.noel {
+    text-align:center;
+    background-color: transparent ;
+    color: red;
+}
+.second {
+    background-image: url("https://media.giphy.com/media/12wteMTXxjLaVO/giphy.gif");
+    background-size: cover;
+}
+.texte{
+    text-align: center;
+    color: black;
+    display: center;
+}
+.fond-noir{
+    background-color: black;
+}
+
+.summary{
+color: orangered;
+background-color: orangered;
+}
+.cocktails{
+    color: orangered;
+}
+.ppi {
+background-image:url("fond ecr.webp");
+background-size:cover ;
+}
+.txt {
+    color:green;
+}
+.article{
+    background-color: black;
+}
+.Punch{
+    background-image:url("istockphoto-824190520-612x612.jpg") ;
+    background-size: cover;
+}
+.txts{
+    color: yellowgreen;
+}
+.margarita {
+    background-image: url("margg.webp");
+    background-size: cover;
+}
+.tt{
+    color: beige;
+}
+.sun {
+    background-image:url("sn mmag.webp");
+    background-size: cover;
+}
+.secondary{
+    text-align:center;
+}
+.cnt{
+    text-align:center;
+}
+
+.marge-zero{
+    margin:0;
+}
+.fin {
+    background-image:url("cc.webp") ;
+    background-size:cover;
+}
+.beug{
+    background-image:url("beug.webp") ;
+    background-size:cover;
+}
